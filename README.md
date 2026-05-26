@@ -1,5 +1,5 @@
 # 3x3x4 Sobel Filter written in Verilog, suitable for AXI VDMA
-## (Now preparing to launch on Zynq...)
+## (Successfully launch on Zynq...)
 ### Hardware Sobel with AXI Stream Control Signal. Testbench included
 ### Fixed image size Grayscale 640x480 -> 640x478, with left-right zero padding
 
