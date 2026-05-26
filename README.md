@@ -1,7 +1,7 @@
 # 3x3x4 Sobel Filter written in Verilog, suitable for AXI VDMA
 ## (Now preparing to launch on Zynq...)
-### Hardware sobel with axi stream control signal. Testbench included
-### Fixed image size grayscale 640x480 -> 640x478, with left-right zero padding
+### Hardware Sobel with AXI Stream Control Signal. Testbench included
+### Fixed image size Grayscale 640x480 -> 640x478, with left-right zero padding
 
 ![img](https://github.com/Karoi1/zybo_sobel/blob/main/bluebird1.png)
 
