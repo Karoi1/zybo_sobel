@@ -1,5 +1,5 @@
 # zybo_sobel
-## hardware sobel with axi stream control signal. 
+## hardware sobel with axi stream control signal. Testbench included
 ## fixed image size grayscale 640x480 -> 640x478, with left-right zero padding, 
 
 ![img](https://github.com/Karoi1/zybo_sobel/blob/main/bluebird1.png)
